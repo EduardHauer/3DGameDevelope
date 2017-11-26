@@ -8,7 +8,6 @@ namespace _3DGameDevelope
 {
     class Project : Program
     {
-
         public static int Start()
         {
             return 0;
